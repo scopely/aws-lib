@@ -1,5 +1,5 @@
 {
-  "name": "aws-lib",
+  "name": "aws-lib-scopely",
   "description": "Extensible Node.js library for the Amazon Web Services API",
   "version": "0.0.5scopely",
   "homepage": "https://github.com/mirkok/aws-lib",
