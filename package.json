@@ -1,7 +1,7 @@
 {
   "name": "aws-lib-scopely",
   "description": "Extensible Node.js library for the Amazon Web Services API",
-  "version": "0.0.5scopely",
+  "version": "0.0.5scopely.1",
   "homepage": "https://github.com/mirkok/aws-lib",
   "keywords": ["amazon","aws", "ec2", "product advertising", "simpledb", "Simple Queue Service", "SQS", "Simple Email Service", "SES"],
   "repository": "git://github.com/mirkok/aws-lib.git",
@@ -14,7 +14,8 @@
   ],
   "dependencies": {
       "xml2js": "0.1.x",
-      "sax": "0.1.x"
+      "sax": "0.1.x",
+      "request":"2.1.1"
   },
   "main": "lib/aws",
   "directories": {
